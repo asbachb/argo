@@ -10,7 +10,7 @@
 
 ## 🧐 How it works?
 
-This project was based on the following topic that is present in the official ArgoCD documentation: [Manage Argo CD using Argo CD](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/#manage-argo-cd-using-argo).
+This project was based on the following topic that is present in the official ArgoCD documentation: [Manage Argo CD using Argo CD](https://argo-cd.readthedocs.io/en/stable/operator-manual/declarative-setup/#manage-argo-cd-using-argo-cd).
 
 Special thanks to [@kurtburak](https://github.com/kurtburak) for his article on Medium: ["Self Managed Argo CD — App Of Everything"](https://medium.com/devopsturkiye/self-managed-argo-cd-app-of-everything-a226eb100cf0), it gave me a great foundation to get started with these setups.
 
